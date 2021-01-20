@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "W",
+    "D"
+  ],
+  "key": {
+    "D": {
+      "item": "goo:orange_goo"
+    },
+    "W" : {
+      "item": "goo:white_goo"
+    }
+  },
+  "result": {
+    "item": "goo:orange_white_goo"
+  }
+}

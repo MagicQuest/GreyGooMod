@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "goo:green_goo"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item":"goo:brown_goo"
+    },
+    {
+      "item": "goo:purple_goo"
+    },
+    {
+      "item": "goo:yellow_goo"
+    },
+    {
+      "item": "goo:orange_goo"
+    },
+    {"item": "goo:white_goo"},
+    {
+      "item": "goo:blue_goo"
+    },
+    {
+      "item": "goo:red_goo"
+    }
+
+  ],
+  "result": {
+    "item": "goo:rainbow_goo"
+  }
+}

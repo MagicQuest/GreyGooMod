@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TT",
+    "DD"
+  ],
+  "key": {
+    "D": {
+      "item": "goo:green_goo"
+    },
+    "T": {
+      "item": "minecraft:air"
+    }
+  },
+  "result": {
+    "item": "goo:green_goo",
+    "count": 4
+  }
+}

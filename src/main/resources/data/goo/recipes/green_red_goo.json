@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GR",
+    "GG"
+  ],
+  "key": {
+    "G": {
+      "item": "goo:green_goo"
+    },
+    "R": {
+      "item": "goo:red_goo"
+    }
+  },
+  "result": {
+    "item": "goo:green_red_goo"
+  }
+}

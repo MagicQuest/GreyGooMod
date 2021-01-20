@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DD",
+    "DD"
+  ],
+  "key": {
+    "D": {
+      "item": "goo:purple_goo"
+    }
+  },
+  "result": {
+    "item": "goo:purple_red_goo"
+  }
+}

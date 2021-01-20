@@ -1,0 +1,27 @@
+{
+    "itemGroup.gootab": "GreyGooMod",
+
+    "block.goo.grey_goo": "Grey Goo",
+    "block.goo.red_goo": "Red Goo",
+    "block.goo.orange_goo": "Orange Goo",
+    "block.goo.green_goo": "Green Goo",
+    "block.goo.plague_goo": "Plague Goo",
+    "block.goo.white_goo": "White Goo",
+    "block.goo.purple_goo": "Purple Goo",
+    "block.goo.rainbow_goo": "Rainbow Goo",
+    "block.goo.yellow_goo": "Yellow Goo",
+    "block.goo.blue_goo": "Blue Goo",
+    "block.goo.brown_goo": "Brown Goo",
+    "block.goo.purple_red_goo": "Purple-Red Goo",
+    "block.goo.darkness_goo": "Darkness Goo",
+    "block.goo.brown_red_goo": "Brown-Red Goo",
+    "block.goo.tumor_goo": "Tumor",
+    "block.goo.blue_red_goo": "Blue-Red Goo",
+    "block.goo.white_green_goo": "White-Green Goo",
+    "block.goo.tgd": "The Great Destroyer",
+    "block.goo.tgd_inert": "Inert Destroyer",
+    "block.goo.orange_white_goo": "Orange-White Goo",
+    "block.goo.orange_purple_goo": "Orange-Purple Goo",
+    "block.goo.green_red_goo": "Green-Red Goo",
+    "block.goo.emp_array": "Emp Array"
+}
